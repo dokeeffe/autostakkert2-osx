@@ -41,7 +41,7 @@ Now select the downloaded and unzipped autostakkert2 folder.
 
 ![Screenshot](screenshots/copy-as2.png "Winery")
 
-It will prompt for the exe to use. 
+It will prompt for the exe to use. Click OK to return to the winery application.
 
 ![Screenshot](screenshots/exe.png "Winery")
 
